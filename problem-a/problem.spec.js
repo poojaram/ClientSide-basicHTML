@@ -134,7 +134,7 @@ describe('Has required CSS', () => {
     let p = $('p')
     expect(p.css('line-height') ).toEqual('1.5');
     expect(p.attr('id')).toBe(undefined); //shouldn't have id
-    expect(p.attr('class')).toBe(undefined); //should have class
+    expect(p.attr('class')).toBe(undefined); //shouldn't have class
   })
 
   test('Images have constrained height', () => {
