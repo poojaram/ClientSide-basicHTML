@@ -12,5 +12,8 @@
     "cheerio": "^1.0.0-rc.2",
     "inline-css": "^2.4.0",
     "jest-style-matchers": "^0.1.2"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
   }
 }
