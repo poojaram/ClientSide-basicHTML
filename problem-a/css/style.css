@@ -1,0 +1,21 @@
+
+/* Body rule */
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', san-serif;
+}
+
+/* Paragraph rules */
+p {
+    line-height: 1.5;
+}
+
+/* Img rules */
+img {
+    max-height: 400px;
+}
+
+/* highlighting rules - class selector */
+.important {
+    color: blueviolet;
+}
